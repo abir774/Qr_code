@@ -1,6 +1,6 @@
 # qr_code
 
-A new Flutter project.
+Qr_code : est une application mobile de création des code Qr ou bien de lire  le contenu de n’importe quelle code Qr.
 
 ## Getting Started
 
